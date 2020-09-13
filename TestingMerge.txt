@@ -3,3 +3,5 @@ String name;
 int qty;
 
 int getId();
+int getQty();
+
